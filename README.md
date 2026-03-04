@@ -63,7 +63,7 @@ Grandeur HMS is a full-featured Hotel Management System built entirely on the Sa
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-org/grandeur-hms-salesforce.git
+   git clone <repository-url>
    cd grandeur-hms-salesforce
    ```
 
@@ -142,4 +142,4 @@ Please review the [Implementation Guide](docs/implementation-guide.md) before co
 ## License
 
 This project is licensed under the [MIT License](LICENSE).  
-© Grandeur HMS. All rights reserved.
+© Grandeur HMS
